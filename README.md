@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Deepansh 👋
+I'm a backend developer passionate about building scalable SaaS products.
 
-<!--
-**deepansh-maurya/deepansh-maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Node.js, TypeScript, Kafka, Redis
+- SQL, NoSQL
+- System Design & Architecture
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Deepansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepansh-maurya&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👁 Visitor Count
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepansh-maurya.deepansh-maurya)
