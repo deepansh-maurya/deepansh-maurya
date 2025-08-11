@@ -6,10 +6,10 @@ I'm a backend developer passionate about building scalable SaaS products.
 - SQL, NoSQL
 - System Design & Architecture
 
-## 📈 GitHub Stats
-![Deepansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepansh-maurya&show_icons=true&theme=dark)
+## 📈 GitHub Stats                                                                                                         ![Top Langs]
+![Deepansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepansh-maurya&show_icons=true&theme=dark) (https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-maurya&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-maurya&layout=compact&theme=dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deepansh-maurya&theme=dark)
 
